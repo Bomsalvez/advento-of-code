@@ -1,10 +1,13 @@
 package dev.senzalla;
 
 import dev.senzalla.dayone.Trebuchet;
+import dev.senzalla.daytwo.CubeConundrum;
 
 public class Main {
     public static void main(String[] args) {
-        int result = new Trebuchet().start();
+        new Trebuchet().start();
+        int result = new CubeConundrum().start();
         System.out.println(result);
+
     }
 }
