@@ -27,3 +27,11 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Z
+*src/dev/senzalla/daytwo/CubeConundrum.java,b\b\bb6dac87ef12ef15db5d8c17aa74f2ebb8ea18e8
+Q
+!src/dev/senzalla/daytwo/Cube.java,a\c\acf4c5920d786169c435b031a1795373046f9dbb
+U
+%src/dev/senzalla/daytwo/CubeEnum.java,5\b\5bc700940a21d166c39c4379d32380c03548a8f8
+Q
+!src/dev/senzalla/daytwo/input.txt,5\8\5863996557c6fd59db030607a5c2a362b9df7c2d

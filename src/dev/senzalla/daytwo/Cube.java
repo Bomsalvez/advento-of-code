@@ -16,4 +16,12 @@ public class Cube {
     public String getCor() {
         return cor;
     }
+
+    @Override
+    public String toString() {
+        return "Cube{" +
+                "number=" + number +
+                ", cor='" + cor + '\'' +
+                '}';
+    }
 }
